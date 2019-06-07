@@ -1,2 +1,0 @@
-# EmbeddedSolWEBPage
-Embedded Solution
